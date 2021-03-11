@@ -60,4 +60,5 @@ public class Denuncias {
                 ", acontecimento='" + acontecimento + '\'' +
                 '}';
     }
+    //asdasda
 }
