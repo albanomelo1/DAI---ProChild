@@ -13,7 +13,7 @@ public class Jogos {
     public Jogos() {
     }
 
-    public Jogos(int id_jogo, String nome, byte[] imagem, String descricao, String regras) {
+    public Jogos(String nome, byte[] imagem, String descricao, String regras) {
         this.id_jogo = id_jogo;
         this.nome = nome;
         this.imagem = imagem;

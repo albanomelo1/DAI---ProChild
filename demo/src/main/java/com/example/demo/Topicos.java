@@ -10,7 +10,7 @@ public class Topicos {
     public Topicos() {
     }
 
-    public Topicos(int id_topico, String nome, String descricao, int id_instituicao) {
+    public Topicos(String nome, String descricao, int id_instituicao) {
         this.id_topico = id_topico;
         this.nome = nome;
         this.descricao = descricao;

@@ -13,7 +13,7 @@ public class Videos {
     public Videos() {
     }
 
-    public Videos(int id_video, String nome, String descricao, String link, byte[] thumbnail) {
+    public Videos(String nome, String descricao, String link, byte[] thumbnail) {
         this.id_video = id_video;
         this.nome = nome;
         this.descricao = descricao;

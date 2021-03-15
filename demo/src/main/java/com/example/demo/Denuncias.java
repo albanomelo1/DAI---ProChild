@@ -12,7 +12,7 @@ public class Denuncias {
     public Denuncias() {
     }
 
-    public Denuncias(int id_denuncia, String localizacao, Date data, String acontecimento) {
+    public Denuncias(String localizacao, Date data, String acontecimento) {
         this.id_denuncia = id_denuncia;
         this.localizacao = localizacao;
         this.data = data;
